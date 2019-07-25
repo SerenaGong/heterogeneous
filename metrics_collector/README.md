@@ -1,1 +1,1 @@
-This space for host metrics collection scripts. Deatled readme will follow soon.
+This space for host metrics collection scripts. Detailed readme will follow soon.
