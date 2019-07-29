@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Network Benchmark Utility v0.1
 
 USAGE:
@@ -20,3 +21,6 @@ IPERF OPTIONS:
 
   -t, --time <arg>
         Time in seconds to transmit for (default 10 secs).
+=======
+This space for host metrics collection scripts. Detailed readme will follow soon.
+>>>>>>> e4632d638afd11ad476421ef3aaeb83323e29ce6
